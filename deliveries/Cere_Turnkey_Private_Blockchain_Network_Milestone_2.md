@@ -4,7 +4,7 @@
 
 * **PR Link:**
 
-https://github.com/w3f/Open-Grants-Program/pull/157
+https://github.com/w3f/Open-Grants-Program/pull/98
 
 * **Milestone Number:** 2
 
